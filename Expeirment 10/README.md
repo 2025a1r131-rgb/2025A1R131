@@ -65,17 +65,6 @@ Run the program:
 ./experiment10
 ```
 
-## 📸 Output
-
-
-## 📸 Output Screenshot
-
-The following screenshot shows the execution
-of the C program in Ubuntu Linux.
-
-![Experiment 10 Output](Ubuntu%20Terminal%20Running%20C%20Fork%20Example%281%29.png)
-
-
 ## ✅ Result
 
 The C program demonstrates process creation
