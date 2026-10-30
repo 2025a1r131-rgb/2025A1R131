@@ -67,10 +67,14 @@ Run the program:
 
 ## 📸 Output
 
-The following image illustrates the program
-execution in the Ubuntu terminal.
 
-![Experiment 10 Output](output.jpg)
+## 📸 Output Screenshot
+
+The following screenshot shows the execution
+of the C program in Ubuntu Linux.
+
+![Experiment 10 Output](Ubuntu%20Terminal%20Running%20C%20Fork%20Example%281%29.png)
+
 
 ## ✅ Result
 
